@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+
+//http://blog.csdn.net/ljsspace/article/details/6596509
 public class Ukkonen {
 	public class SuffixNode {		
 		public StringBuilder sb;
